@@ -22,7 +22,7 @@ stage ('Test')
 
 stage ('Deploy')
 {
-              step
+              steps
                   {
                     echo 'Deply App'
                        }
